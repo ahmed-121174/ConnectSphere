@@ -1,6 +1,6 @@
 # ConnectSphere
 
-A simple social media-like desktop application built with **Python** and **Tkinter** for the GUI. ConnectSphere allows users to register, manage profiles, follow others, create posts, like and comment on posts, and more — all through a clean, modular design.
+A simple social media like desktop application built with **Python** and **Tkinter** for the GUI. ConnectSphere allows users to register, manage profiles, follow others, create posts, like and comment on posts and more all through a clean, modular design.
 
 ---
 
@@ -31,27 +31,6 @@ A simple social media-like desktop application built with **Python** and **Tkint
 
 ---
 
-## 📂 Project Structure
-
-```
-
-ConnectSphere/
-│
-├── user\_data/
-│   ├── <username>.txt         # User password
-│   ├── \_<username>\_bio.txt    # User bio
-│   └── \_<username>\_follow\.txt # Followed users
-│
-├── posts.txt                  # All posts
-├── comments.txt               # Post comments
-├── session.txt                # Current user session
-├── main.py                    # Main application file
-└── README.md
-
-````
-
----
-
 ## 📈 System Design
 
 ### 🏗️ Architecture
@@ -69,7 +48,7 @@ ConnectSphere/
 ## 📋 Requirements
 
 - Python 3.x
-- Tkinter (usually pre-installed with Python)
+- Tkinter
 
 ---
 
@@ -77,7 +56,7 @@ ConnectSphere/
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/your-username/ConnectSphere.git
+   git clone https://github.com/ahmed-121174/ConnectSphere.git
    cd ConnectSphere
 ````
 
@@ -98,9 +77,9 @@ ConnectSphere/
 
 ## 🧑‍💻 Author
 
-**Your Name**
-Connect with me on [LinkedIn](https://www.linkedin.com)
-Email: [your.email@example.com](mailto:your.email@example.com)
+**Ahmed Ali**
+Connect with me on ([https://www.linkedin.com](https://www.linkedin.com/in/ahmed-ali01/))
+Email: [.email@example.com](mailto:your.email@example.com)
 
 ---
 
