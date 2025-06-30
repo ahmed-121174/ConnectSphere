@@ -78,8 +78,8 @@ A simple social media like desktop application built with **Python** and **Tkint
 ## 🧑‍💻 Author
 
 **Ahmed Ali**
-Connect with me on ([https://www.linkedin.com](https://www.linkedin.com/in/ahmed-ali01/))
-Email: [.email@example.com](mailto:your.email@example.com)
+Connect with me on Linkedin: (https://www.linkedin.com/in/ahmed-ali01/)
+Email: ahmed.ali01100001@gmail.com
 
 ---
 
